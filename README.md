@@ -28,6 +28,9 @@ Rust/axum API · Next.js 16 · AWS Lambda probes across 8 global regions · Real
 **[blk-reader](https://crates.io/crates/blk-reader)** — Rust crate for reading Bitcoin Core `blk*.dat` files.
 Automatic XOR decoding (Bitcoin Core 28.0+) · LevelDB index · zero async dependencies · published on crates.io.
 
+**[evidence-chain](https://crates.io/crates/evidence-chain)** — Rust crate for building explainable evidence chains.
+Domain-agnostic audit trail · fraud detection · trading signals · compliance checks · serde-serializable · published on crates.io.
+
 ---
 
 ### Background
