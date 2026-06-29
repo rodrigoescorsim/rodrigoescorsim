@@ -20,10 +20,13 @@ CUDA · OpenCV · ZeroMQ · Boost · Qt · AWS Lambda · PostgreSQL · Redis · 
 
 ---
 
-### Featured Project
+### Featured Projects
 
 **[CacheSnap](https://cachesnap.com)** — Edge performance monitoring SaaS built from scratch.
 Rust/axum API · Next.js 16 · AWS Lambda probes across 8 global regions · Real-time cache & latency analytics.
+
+**[blk-reader](https://crates.io/crates/blk-reader)** — Rust crate for reading Bitcoin Core `blk*.dat` files.
+Automatic XOR decoding (Bitcoin Core 28.0+) · LevelDB index · zero async dependencies · published on crates.io.
 
 ---
 
