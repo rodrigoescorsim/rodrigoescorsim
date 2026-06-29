@@ -1,16 +1,43 @@
-## Hi there 👋
+# Rodrigo Maia Escorsim
 
-<!--
-**rodrigoescorsim/rodrigoescorsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Developer with 15+ years building high-performance systems in **C++** and **Rust**.
 
-Here are some ideas to get you started:
+I specialize in domains where correctness and low latency are non-negotiable:
+**Cybersecurity · Algorithmic Trading · Medical Imaging · Embedded Systems · Web3**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+**Languages**
+C++ · Rust · Python · Go · MQL4/MQL5 · TypeScript
+
+**Domains**
+Cybersecurity · DICOM/PACS · Algorithmic Trading · Computer Vision · Microservices · Blockchain/Web3
+
+**Tools & Infra**
+CUDA · OpenCV · ZeroMQ · Boost · Qt · AWS Lambda · PostgreSQL · Redis · Docker
+
+---
+
+### Featured Project
+
+**[CacheSnap](https://cachesnap.com)** — Edge performance monitoring SaaS built from scratch.
+Rust/axum API · Next.js 16 · AWS Lambda probes across 8 global regions · Real-time cache & latency analytics.
+
+---
+
+### Background
+
+- **Capzul** (2024–present) — Cybersecurity applications in C++ and Rust
+- **MV** (2022–2024) — Medical imaging software (DICOM/PACS, CUDA, C++17/20)
+- **Focalle** (2019–2022) — Event-driven microservices architecture (C++, Rust, ZeroMQ)
+- **20+ Expert Advisors** and **30+ technical indicators** for MetaTrader 4/5
+
+---
+
+### Open to
+
+Remote opportunities worldwide · Contract & full-time · Async-first teams
+
+📍 Florianópolis, Brazil &nbsp;|&nbsp; 🔗 [cachesnap.com](https://cachesnap.com)
