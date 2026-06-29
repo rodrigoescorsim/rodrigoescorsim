@@ -1,4 +1,4 @@
-# Rodrigo Maia Escorsim
+# Rodrigo Escorsim
 
 Senior Software Developer with 15+ years building high-performance systems in **C++** and **Rust**.
 
