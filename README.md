@@ -31,6 +31,9 @@ Automatic XOR decoding (Bitcoin Core 28.0+) · LevelDB index · zero async depen
 **[evidence-chain](https://crates.io/crates/evidence-chain)** — Rust crate for building explainable evidence chains.
 Domain-agnostic audit trail · fraud detection · trading signals · compliance checks · serde-serializable · published on crates.io.
 
+**[bitcoin-heuristics](https://crates.io/crates/bitcoin-heuristics)** — Rust crate for Bitcoin on-chain pattern detection.
+8 bundled heuristics (consolidation, CoinJoin, dormant supply activation, fee spikes and more) · pure data struct `TxFeatures` · no async runtime · published on crates.io.
+
 ---
 
 ### Background
