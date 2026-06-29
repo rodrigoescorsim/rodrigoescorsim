@@ -40,4 +40,4 @@ Rust/axum API · Next.js 16 · AWS Lambda probes across 8 global regions · Real
 
 Remote opportunities worldwide · Contract & full-time · Async-first teams
 
-📍 Florianópolis, Brazil &nbsp;|&nbsp; 🔗 [cachesnap.com](https://cachesnap.com)
+📍 Florianópolis, Brazil &nbsp;|&nbsp; 🔗 [cachesnap.com](https://cachesnap.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/rodrigoescorsim)
